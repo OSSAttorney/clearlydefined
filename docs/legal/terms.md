@@ -8,7 +8,7 @@ All Data and Services, including any updates, are subject to the Terms of Use (�
 
 ## Your Privacy
 
-Your privacy is important to us.  Please read our Privacy Policy where we set out the types of information we collect from you (your “Information”) and how we use your Information and the data you upload, harvest or curate (your “Content”). By using the Data and Services or agreeing to the TOU, you consent to ClearlyDefined’s collection, use and disclosure of your Information and Content as described in our privacy policy. The most current version of the Privacy Policy can be reviewed by clicking on the “Privacy Policy” hypertext link located at the bottom of our web pages.
+Your privacy is important to us.  Please read our Privacy Policy where we set out the types of information we collect from you (your “Information”) and how we use your Information and the data you upload, harvest or curate (your “Content”). By using the Data and Services or agreeing to the TOU, you consent to ClearlyDefined’s collection, use and disclosure of your Information and Content as described in our privacy policy. The most current version of the Privacy Policy can be reviewed by clicking on the “Privacy Policy” hypertext link.
 
 ## Code of Conduct
 
